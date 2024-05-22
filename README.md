@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Sutapa Biswas</h1>
 <h3 align="center">A passionate full-stack developer. AI enthusiast. I am currently learning DSA and Web dev ✨</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/bd/a3/54bda352b17744efa1f6898040455423.gif">
+<img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/785251185547915678/D7F814FE023D2A138B90FED5E4DCA44CE4079254/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suto6&label=Profile%20views&color=0e75b6&style=flat" alt="suto6" /> </p>
 
