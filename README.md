@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Sutapa Biswas</h1>
-<h3 align="center">A passionate full-stack developer. AI enthusiast. I am currently learning DSA and Web dev ✨</h3>
+<h3 align="center">A passionate full-stack developer. AI enthusiast. I am currently learning GenAI and AR✨</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/4a/65/ab/4a65abeead3a8d113bccfee5d5d239f4.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suto6&label=Profile%20views&color=0e75b6&style=flat" alt="suto6" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sutobiswas" target="blank"><img src="https://img.shields.io/twitter/follow/sutobiswas?logo=twitter&style=for-the-badge" alt="sutobiswas" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Agentic AI**
 
 - 💬 Ask me about **React, node js, Express, MongoDB, Tailwind CSS, HTML5, Flutter**
 
