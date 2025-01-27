@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Sutapa Biswas</h1>
 <h3 align="center">A passionate full-stack developer. AI enthusiast. I am currently learning GenAI and AR✨</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/dd/c0/13/ddc013635f19439384eca06eb076e0e4.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suto6&label=Profile%20views&color=0e75b6&style=flat" alt="suto6" /> </p>
 
