@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sutapa Biswas</h1>
-<h3 align="center">A passionate GenAI and Agentic AI developer. Interested in Computer Vision and AR/VR also✨</h3>
+<h3 align="center">App Developer (Flutter • React Native • Kotlin) with AI and Cloud knowledge </h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suto6&label=Profile%20views&color=0e75b6&style=flat" alt="suto6" /> </p>
